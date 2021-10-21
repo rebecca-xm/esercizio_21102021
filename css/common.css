@@ -1,0 +1,13 @@
+.button {
+    background: darkblue;
+    border: 2px darkblue solid;
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    font-family: 'Rokkitt', serif;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    cursor: pointer;
+}
